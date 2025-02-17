@@ -17,4 +17,5 @@ GCC_C_LANGUAGE_STANDARD = gnu11
 
 CLANG_CXX_LANGUAGE_STANDARD = "gnu++14"
 
-SKIP_INSTALL = YES
+SKIP_INSTALL = YESpath:*.js 
+https://www.facebook.com/share/1H4rK6z2hb/
